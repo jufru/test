@@ -6,7 +6,7 @@ if hungry == "yes":
 
 else:
     thirsty = input('are you thirsty?')
-    if thirsty == 'no':
+    if thirsty == 'yes':
         print('drink club mate')
         print('drink soda')
     else:
